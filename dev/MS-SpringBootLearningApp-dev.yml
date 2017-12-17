@@ -1,2 +1,5 @@
 test:
   name: venket
+logging:
+  level:
+    com.acheron.demo.spring.boot: debug 
